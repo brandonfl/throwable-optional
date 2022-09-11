@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"xyz.brandonfl.throwableoptional","c":"ThrowableOptional","l":"of(Callable<T>)","url":"of(java.util.concurrent.Callable)"},{"p":"xyz.brandonfl.throwableoptional","c":"ThrowableOptional","l":"of(Function<T, R>, T)","url":"of(java.util.function.Function,T)"}]
