@@ -44,6 +44,7 @@ public final class ThrowableOptional {
      * {@code ThrowableOptional.of(() -> Long.parseLong(value))}
      *
      * @param function a callable function
+     * @param <T> Type of the parameter
      * @return Optional of the throwable function
      */
     public static <T> Optional<T> of(Callable<T> function) {
