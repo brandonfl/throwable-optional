@@ -12,8 +12,7 @@ Throwable Optional
   <a href="https://github.com/brandonfl/throwable-optional/packages/"><img src="https://img.shields.io/github/v/release/brandonfl/throwable-optional" alt="release"></a>
   <a href="https://search.maven.org/artifact/xyz.brandonfl/throwable-optional"><img src="https://img.shields.io/maven-central/v/xyz.brandonfl/throwable-optional" alt="maven-central"></a>
   <a href="https://github.com/brandonfl/throwable-optional/actions?query=workflow%3A%22Java+CI%22"><img src="https://github.com/brandonfl/throwable-optional/workflows/Java%20CI/badge.svg" alt="Java CI"></a>
-  <a href="https://github.com/brandonfl/throwable-optional/actions?query=workflow%3ASonar"><img src="https://github.com/brandonfl/throwable-optional/workflows/Sonar/badge.svg" alt="Sonar"></a>
-  <a href="https://github.com/brandonfl/throwable-optional/actions?query=workflow%3A%22Publish+Maven+package%22"><img src="https://github.com/brandonfl/throwable-optional/workflows/Publish%20Maven%20package/badge.svg" alt="Publish Maven package"></a>
+  <a href="https://github.com/brandonfl/throwable-optional/actions/workflows/codeql.yml"><img src="https://github.com/brandonfl/throwable-optional/actions/workflows/codeql.yml/badge.svg?branch=master" alt="CodeQL"></a>
   <a href="https://sonarcloud.io/dashboard?id=brandonfl_throwable-optional"><img src="https://sonarcloud.io/api/project_badges/measure?project=brandonfl_throwable-optional&metric=alert_status" alt="Sonar gate"></a>
   <a href="https://github.com/brandonfl/throwable-optional/blob/master/LICENSE"><img src="https://img.shields.io/github/license/brandonfl/throwable-optional" alt="licence"></a>
 </p>
